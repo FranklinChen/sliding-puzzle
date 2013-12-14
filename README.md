@@ -1,5 +1,7 @@
 # Sliding Puzzle
 
+[![Build Status](https://travis-ci.org/FranklinChen/sliding-puzzle.png)](https://travis-ci.org/FranklinChen/sliding-puzzle)
+
 [Sliding Puzzle](http://en.wikipedia.org/wiki/Sliding_puzzle) implemented in **Scala** using JavaFX.
 
 ![image](images/screenshot.jpg)
