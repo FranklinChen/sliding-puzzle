@@ -7,6 +7,6 @@
 
 resolvers += "Templemore Repository" at "http://templemore.co.uk/repo"
 
-addSbtPlugin("templemore" % "sbt-cucumber-plugin" % "0.7.2")
+addSbtPlugin("templemore" % "sbt-cucumber-plugin" % "0.8.0")
 
-addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.9.0")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.10.1")
